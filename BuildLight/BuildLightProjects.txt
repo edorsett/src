@@ -1,0 +1,9 @@
+ArchiveAssetService Smoke Test
+CcdnWorkflow Smoke Test
+CcpWorkflow Smoke Test
+ProflileLookup Smoke Test
+MpegAnalyzer Smoke Test
+TranscodeService Smoke Test
+VdsWorkflow Smoke Test
+VodPortal Smoke Test
+VodExpressLane Smoke Test
